@@ -45,8 +45,6 @@
   -- Change the Language
   -- Could be useful when there's more than one language wiki.
   -->
-
-<!--
 [Change the Language]()
 
   * [English (United States)](/en_US/)
@@ -55,7 +53,9 @@
 
   * [Italian](/it/)
 
-  [Hebrew](/he/)*-->
+  * [Hebrew](/he/)
+
+    
 
 <!--
   -- Let the user choose a theme
